@@ -13,9 +13,11 @@
     text-align: center
 }
 .description{
-    max-width: 335px;
-    margin-left: 8%;
-    margin-top: 5%;
+    font-weight: 400;
+	 font-size: 12px;
+	 line-height: 16.7px;
+	 letter-spacing: 6%;
+	 text-align: center;
 }
 
 .button-getStarted{
