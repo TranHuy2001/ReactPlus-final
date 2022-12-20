@@ -14,9 +14,17 @@ export default function HomeContainer() {
         <p className="title-1">Welcome to </p>
         <h2 className="title-2"> OUR REMINDER</h2>
         <p className="description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum
-          dictum tempus, interdum at dignissim metus. Ultricies sed nunc.
+          Lorem ipsum dolor sit amet, consectetur
         </p>
+        <p className="description">
+          adipiscing elit. Interdum dictum tempus,
+        </p>
+        <p className="description">
+          interdum at dignissim metus. Ultricies sed 
+        </p>
+        <p className="description">
+          nunc.
+        <p>
       </div>
       <div className="footer">
         <Link to="/register" className="button-getStarted">
